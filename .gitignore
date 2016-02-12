@@ -1,0 +1,15 @@
+# ファイル
+.DS_Store
+.htaccess
+wp-config.php
+
+# ディレクトリ
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/cache/
+wp-content/backups/
+
+# ワイルドカード
+*.log
+
