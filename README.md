@@ -9,3 +9,4 @@ ONAKASUITA.me Wordpress制作用リポジトリです
 ##ファイル構成
 
 ##リリース方法
+リリース
